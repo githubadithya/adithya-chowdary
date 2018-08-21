@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello Adithya
 
 You can use the [editor on GitHub](https://github.com/githubadithya/adithya-chowdary/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
